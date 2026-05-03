@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0d0d"/>
+      <stop offset="50%" style="stop-color:#1a0a2e"/>
+      <stop offset="100%" style="stop-color:#2d1b69"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff6f00"/>
+      <stop offset="50%" style="stop-color:#ee4c2c"/>
+      <stop offset="100%" style="stop-color:#9c27b0"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" rx="12" fill="url(#bg)"/>
+  <rect x="0" y="190" width="900" height="10" rx="0 0 12 12" fill="url(#accent)"/>
+  <text x="50" y="75" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="800" font-size="42" fill="white">🧠 ML &amp; AI Engineering</text>
+  <text x="50" y="115" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="400" font-size="20" fill="#d4a0ff">ML · Deep Learning · LLMs · Agentic AI · MLOps</text>
+  <text x="50" y="155" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="300" font-size="16" fill="#9b7fc4">Gradient Descent → Transformers → RLHF → ReAct Agents → Production ML</text>
+  <circle cx="800" cy="80" r="8" fill="#ff6f0044"/>
+  <circle cx="830" cy="65" r="12" fill="#ee4c2c33"/>
+  <circle cx="815" cy="100" r="6" fill="#9c27b033"/>
+  <line x1="800" y1="80" x2="830" y2="65" stroke="#ffffff22" stroke-width="1"/>
+  <line x1="830" y1="65" x2="815" y2="100" stroke="#ffffff22" stroke-width="1"/>
+  <line x1="815" y1="100" x2="800" y2="80" stroke="#ffffff22" stroke-width="1"/>
+</svg>

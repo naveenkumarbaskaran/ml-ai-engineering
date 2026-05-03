@@ -2,10 +2,14 @@
 
 <div align="center">
 
+<img src="assets/banner.svg" alt="ML AI Engineering Banner" width="100%" />
+
 ![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![DL](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![AI](https://img.shields.io/badge/Agentic_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Stars](https://img.shields.io/github/stars/naveenkumarbaskaran/ml-ai-engineering?style=for-the-badge&color=yellow)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 **From gradient descent to autonomous agents — everything you need for ML/AI roles at top tech companies.**
 
